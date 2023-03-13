@@ -1,2 +1,2 @@
 #!/bin/bash
-vi -c "iBest School^[:wq" '*\\'"Best School"\'\\*$\?\*\*\*\*\*:)' 
+echo "Best School" > \\\*\\\\"'\"Best School\"\\'\\\\\*\$\\\?\\\*\\\*\\\*\\\*\\\*\:\)
